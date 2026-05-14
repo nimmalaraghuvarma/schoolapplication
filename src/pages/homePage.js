@@ -1329,7 +1329,7 @@ export default function SchoolLandingPage() {
                                     <div className="map-icon-box"><FaEnvelope /></div>
                                     <div>
                                         <strong>Email</strong>
-                                        <a href="mailto:arunkumar1992@gmail.com">arunkumar1992@gmail.com</a>
+                                        <a href="mailto:arun671992@gmail.com">arun671992@gmail.com</a>
                                     </div>
                                 </div>
 
